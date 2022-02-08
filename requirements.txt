@@ -1,0 +1,11 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+tensorflow-cpu
+Pillow
+numpy
+scikit-learn
+pandas
